@@ -2,7 +2,11 @@
   "name": "cocoop",
   "private": true,
   "dependencies": {
-    "@rails/webpacker": "4.2.2"
+    "@rails/webpacker": "4.2.2",
+    "bootstrap": "^4.4.1",
+    "jquery": "^3.5.1",
+    "moment": "^2.25.3",
+    "popper.js": "^1.16.1"
   },
   "devDependencies": {
     "webpack-dev-server": "^3.11.0"
