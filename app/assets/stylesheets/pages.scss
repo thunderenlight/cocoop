@@ -3,7 +3,14 @@
 // You can use Sass (SCSS) here: http://sass-lang.com/
 ///====custom=======///
 
+.jumbotron {
+  margin-top: 60px;
+  background-color: #9abf43;
+  margin: 0;
+}
 
+
+//a:hover {color: pink;}
 
 body {
   background-color: #fff;
@@ -27,15 +34,15 @@ pre {
 }
 
 a {
-  color: #000;
+  color: #607d8b;
 
   &:visited {
     color: #666;
   }
 
   &:hover {
-    color: #fff;
-    background-color: #000;
+    color: blue;
+    background-color: grey;
   }
 }
 
